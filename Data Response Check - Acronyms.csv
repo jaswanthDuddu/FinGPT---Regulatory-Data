@@ -30,3 +30,34 @@ ChatGPT,RTS on IRS in G4 currencies,FALSE
 ChatGPT,SPV,TRUE
 ChatGPT,TR,FALSE
 ChatGPT,UTI,TRUE
+Llama3-7B,AIF,FALSE
+Llama3-7B,AIFM,TRUE
+Llama3-7B,AIFMD,TRUE
+Llama3-7B,CCP,TRUE
+Llama3-7B,CSD,TRUE
+Llama3-7B,CICI,FALSE
+Llama3-7B,CT,FALSE
+Llama3-7B,EMIR,TRUE
+Llama3-7B,ESMA,TRUE
+Llama3-7B,ETD,TRUE
+Llama3-7B,FC,FALSE
+Llama3-7B,FC+,FALSE
+Llama3-7B,FX,TRUE
+Llama3-7B,ITS,FALSE
+Llama3-7B,ITS on reporting to TR,FALSE
+Llama3-7B,MiFID,TRUE
+Llama3-7B,MTF,TRUE
+Llama3-7B,NCA,FALSE
+Llama3-7B,NFC,FALSE
+Llama3-7B,NFC+,TRUE
+Llama3-7B,NFC-,FALSE
+Llama3-7B,OTC,TRUE
+Llama3-7B,Q&A,FALSE
+Llama3-7B,RTS,1/4 correct Answers
+Llama3-7B,RTS on OTC Derivatives,FALSE
+Llama3-7B,RTS on CCP,FALSE
+Llama3-7B,RTS on Third Country contracts,FALSE
+Llama3-7B,RTS on IRS in G4 currencies,FALSE
+Llama3-7B,SPV,TRUE
+Llama3-7B,TR,1/4 correct Answers
+Llama3-7B,UTI,1/4 correct Answers
