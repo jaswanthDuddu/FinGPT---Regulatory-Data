@@ -61,3 +61,34 @@ Llama3-7B,RTS on IRS in G4 currencies,FALSE
 Llama3-7B,SPV,TRUE
 Llama3-7B,TR,1/4 correct Answers
 Llama3-7B,UTI,1/4 correct Answers
+Mistral-8x7B,AIF,TRUE
+Mistral-8x7B,AIFM,TRUE
+Mistral-8x7B,AIFMD,TRUE
+Mistral-8x7B,CCP,TRUE
+Mistral-8x7B,CSD,TRUE
+Mistral-8x7B,CICI,FALSE
+Mistral-8x7B,CT,FALSE
+Mistral-8x7B,EMIR,TRUE
+Mistral-8x7B,ESMA,TRUE
+Mistral-8x7B,ETD,TRUE
+Mistral-8x7B,FC,FALSE
+Mistral-8x7B,FC+,FALSE
+Mistral-8x7B,FX,TRUE
+Mistral-8x7B,ITS,FALSE
+Mistral-8x7B,ITS on reporting to TR,FALSE
+Mistral-8x7B,MiFID,TRUE
+Mistral-8x7B,MTF,TRUE
+Mistral-8x7B,NCA,1/4 correct Answers
+Mistral-8x7B,NFC,FALSE
+Mistral-8x7B,NFC+,FALSE
+Mistral-8x7B,NFC-,FALSE
+Mistral-8x7B,OTC,TRUE
+Mistral-8x7B,Q&A,TRUE
+Mistral-8x7B,RTS,TRUE
+Mistral-8x7B,RTS on OTC Derivatives,1/4 correct Answers
+Mistral-8x7B,RTS on CCP,FALSE
+Mistral-8x7B,RTS on Third Country contracts,1/4 correct Answers
+Mistral-8x7B,RTS on IRS in G4 currencies,FALSE
+Mistral-8x7B,SPV,TRUE
+Mistral-8x7B,TR,FALSE
+Mistral-8x7B,UTI,FALSE
