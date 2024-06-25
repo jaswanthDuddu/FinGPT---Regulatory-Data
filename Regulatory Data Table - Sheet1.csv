@@ -2,6 +2,7 @@ Benchmark,Datasets,Acronyms,Terms,Lineage Consistency,Numerical Reasoning,Multil
 ChatGPT,ESMA,48.39%,,,,,,
 Llama3-7B,ESMA,44.36%,,,,,,
 Mistral-8x7B,ESMA,50.81%,,,,,,
+Llama3-7B,FINOS,74.783%,,,,,,
 ,,Technique: RAG,,,,,,
 ,,,,,,,,
 ,,,,,,,,
@@ -22,3 +23,4 @@ Models:,ChatGPT,,,,,,,
 ,Mistral-8x7B,,,,,,,
 ,IBM Granite,,,,,,,
 Prompt,What is ____ in finance and buisness?,,,,,,,
+74.783%
