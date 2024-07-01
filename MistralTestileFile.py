@@ -3,7 +3,7 @@ from mistralai.models.chat_completion import ChatMessage
 import numpy as np
 import os
 
-api_key = "3kdwhzd9I8MxqcElNqXxCnMKKn0yd0t9"
+api_key = "yourAPI"
 model = "mistral-large-latest"
 
 client = MistralClient(api_key=api_key)
