@@ -1,5 +1,5 @@
-Model,Question,Response,Organizations,Legislations,Dates,Monetary Values,Statistics
-ChatGPT,"Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.","Organizations: 
+Model,Question,Organizations,Legislations,Dates,Monetary Values,Statistics,Response
+ChatGPT,"Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.",TRUE,TRUE,TRUE,N/A,N/A,"Organizations: 
   - European Parliament
   - Council of the European Union
 
@@ -14,11 +14,96 @@ ChatGPT,"Regulation (EU) No 648/2012 of the European Parliament and of the Counc
   - None
 
 - **Statistics**: 
-  - None",TRUE,TRUE,TRUE,TRUE,TRUE
-ChatGPT,Most of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards. ,"Organizations: None mentioned in the text.
+  - None"
+ChatGPT,Most of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards. ,N/A,FALSE,TRUE,N/A,N/A,"Organizations: None mentioned in the text.
 - **Legislations**: EMIR (European Market Infrastructure Regulation).
 - **Dates**: Not specified in the text.
 - **Monetary Values**: Not mentioned in the text.
-- **Statistics**: Not applicable in this context.",TRUE,FALSE,TRUE,TRUE,TRUE
-ChatGPT,On 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA. ,"Organizations: European Commission, ESMA (European Securities and Markets Authority)Legislations: Regulatory Technical StandardsDates: 19 December 2012Monetary Values: None mentionedStatistics: None mentioned",TRUE,FALSE,TRUE,TRUE,TRUE
-ChatGPT,These technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.,Organizations: Official Journal Legislations: None mentionedDates:Publication Date: 23 February 2013Entry into Force Date: 15 March 2013Monetary Values: None mentionedStatistics: None mentioned,FALSE,TRUE,TRUE,TRUE,TRUE
+- **Statistics**: Not applicable in this context."
+ChatGPT,On 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA. ,TRUE,FALSE,TRUE,N/A,N/A,"Organizations: European Commission, ESMA (European Securities and Markets Authority)Legislations: Regulatory Technical StandardsDates: 19 December 2012Monetary Values: None mentionedStatistics: None mentioned"
+ChatGPT,These technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.,FALSE,N/A,TRUE,N/A,N/A,Organizations: Official Journal Legislations: None mentionedDates:Publication Date: 23 February 2013Entry into Force Date: 15 March 2013Monetary Values: None mentionedStatistics: None mentioned
+ChatGPT,"Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”);",TRUE,TRUE,TRUE,N/A,N/A,"- **Organizations**: European Parliament, Council
+- **Legislations**: Regulation (EU) No 648/2012, EMIR
+- **Dates**: 4 July 2012
+- **Monetary Values**: None
+- **Statistics**: None"
+ChatGPT,Commission Implementing Regulation (EU) No 1247/2012 of 19 December 2012 laying down implementing technical standards with regard to the format and fre- quency of trade reports to trade repositories according to Regulation (EU) No 648/2012;,FALSE,TRUE,TRUE,N/A,N/A,"**Organizations:**
+- Commission
+
+**Legislations:**
+- Commission Implementing Regulation (EU) No 1247/2012
+- Regulation (EU) No 648/2012
+
+**Dates:**
+- 19 December 2012
+
+**Monetary Values:**
+- None
+
+**Statistics:**
+- None"
+ChatGPT,Commission Implementing Regulation (EU) No 1248/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of appli- cations for registration of trade repositories according to Regulation (EU) No 648/2012;,FALSE,TRUE,TRUE,N/A,N/A,"**Organizations:**
+- Commission
+
+**Legislations:**
+- Commission Implementing Regulation (EU) No 1247/2012
+- Regulation (EU) No 648/2012
+
+**Dates:**
+- 19 December 2012
+
+**Monetary Values:**
+- None
+
+**Statistics:**
+- None"
+ChatGPT,Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012 laying down implementing technical standards with regard to the format of the rec- ords to be maintained by central counterparties according to Regulation (EU) No 648/2012;,FALSE,TRUE,TRUE,N/A,N/A,"**Organizations:**
+- Central counterparties
+
+**Legislations:**
+- Commission Implementing Regulation (EU) No 1249/2012
+- Regulation (EU) No 648/2012
+
+**Dates:**
+- 19 December 2012
+
+**Monetary Values:**
+- None
+
+**Statistics:**
+- None"
+ChatGPT,Commission Delegated Regulation (EU) No 148/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on the minimum details of the data to be reported to trade repositories;,FALSE,TRUE,TRUE,N/A,N/A,"**Organizations:**
+- Commission
+- European Union (EU)
+
+**Legislations:**
+- Commission Delegated Regulation (EU) No 148/2013
+- Regulation (EU) No 648/2012
+
+**Dates:**
+- 19 December 2012
+
+**Monetary Values:**
+- (None mentioned)
+
+**Statistics:**
+- (None mentioned)"
+ChatGPT,"Commission Delegated Regulation (EU) No 149/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on indirect clearing arrangements, the clearing obligation, the public register, access to a trading venue, non-financial counterparties, and risk mitigation tech- niques for OTC derivatives contracts not cleared by a CCP;",TRUE,TRUE,TRUE,N/A,N/A,"- **Organizations**: European Union (EU), CCP
+- **Legislations**: Commission Delegated Regulation (EU) No 149/2013, Regulation (EU) No 648/2012
+- **Dates**: 19 December 2012
+- **Monetary Values**: None
+- **Statistics**: None"
+ChatGPT,Commission Delegated Regulation (EU) No 150/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the details of the application for registration as a trade repository;,,,,,,
+ChatGPT,"Commission Delegated Regulation (EU) No 151/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards specifying the data to be published and made available by trade repositories and operational standards for aggregating, comparing and accessing the data;",,,,,,
+ChatGPT,Commission Delegated Regulation (EU) No 152/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on capital requirements for central counterparties;,,,,,,
+ChatGPT,Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012 sup- plementing Regulation (EU) No 648/2012 with regard to regulatory technical stand- ards on requirements for central counterparties;,,,,,,
+ChatGPT,Commission Delegated Regulation (EU) No 2017/2155 of 22 September 2017 amending Delegated Regulation (EU) No 149/2013 with regards to regulatory tech- nical standards on indirect clearing arrangements.,,,,,,
+ChatGPT,"- The derivative is concluded on 1 June 2018;
+- notional of the contract: 1M€;
+- maturity date of the contract: 31 December 2018;
+- the swap is physically settled;
+- Bank A sells EUR and gets GBP for the near leg (and delivers GBP and receives EUR for
+the far leg);
+- the exchange rate of the near leg is 0.88 EUR/GBP, while the exchange rate of the far leg
+is 0.865 EUR/GBP;
+- the two settlement dates are 01/08/2018 and 02/01/2019.",TRUE,TRUE,TRUE,TRUE,TRUE,
