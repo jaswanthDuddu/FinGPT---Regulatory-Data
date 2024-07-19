@@ -1,0 +1,24 @@
+Model,Question,Response,Organizations,Legislations,Dates,Monetary Values,Statistics
+ChatGPT,"Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”) entered into force on 16 August 2012.","Organizations: 
+  - European Parliament
+  - Council of the European Union
+
+- **Legislations**: 
+  - Regulation (EU) No 648/2012
+
+- **Dates**: 
+  - 4 July 2012
+  - 16 August 2012
+
+- **Monetary Values**: 
+  - None
+
+- **Statistics**: 
+  - None",TRUE,TRUE,TRUE,TRUE,TRUE
+ChatGPT,Most of the obligations under EMIR needed to be specified further via regulatory technical standards and they will take effect following the entry into force of the technical standards. ,"Organizations: None mentioned in the text.
+- **Legislations**: EMIR (European Market Infrastructure Regulation).
+- **Dates**: Not specified in the text.
+- **Monetary Values**: Not mentioned in the text.
+- **Statistics**: Not applicable in this context.",TRUE,FALSE,TRUE,TRUE,TRUE
+ChatGPT,On 19 December 2012 the European Commission adopted without modifications the regulatory technical standards developed by ESMA. ,"Organizations: European Commission, ESMA (European Securities and Markets Authority)Legislations: Regulatory Technical StandardsDates: 19 December 2012Monetary Values: None mentionedStatistics: None mentioned",TRUE,FALSE,TRUE,TRUE,TRUE
+ChatGPT,These technical standards were published in the Official Journal on 23 February 2013 and en- tered into force on 15 March 2013.,Organizations: Official Journal Legislations: None mentionedDates:Publication Date: 23 February 2013Entry into Force Date: 15 March 2013Monetary Values: None mentionedStatistics: None mentioned,FALSE,TRUE,TRUE,TRUE,TRUE
