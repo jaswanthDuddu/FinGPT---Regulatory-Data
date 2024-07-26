@@ -1,7 +1,7 @@
-Benchmark,Datasets,Acronyms,Definitions ,NER,Link Retrieval
-ChatGPT4,ESMA,69.57%,90.00%,,
-ChatGPT4o,ESMA,78.26%,96.00%,,
-ChatGPT3.5,ESMA,53.91%,32.00%,,
+ ,Datasets,Acronyms,Definitions ,NER,Link Retrieval
+ChatGPT4,ESMA,69.57%,90.00%,,26.83%
+ChatGPT4o,ESMA,78.26%,96.00%,,40.24%
+ChatGPT3.5,ESMA,53.91%,32.00%,,21.95%
 Llama3-7B 1-shot,ESMA,74.78%,54.00%,,
 Llama3-7B 0-shot,ESMA,61.74%,38.00%,,
 Mistral-8x7B,ESMA,66.09%,66.00%,,
